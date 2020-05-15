@@ -4,6 +4,8 @@
 
 Time spent: **10** hours spent in total
 
+Submitted by: **Schadrac Jean Charles**
+
 ## User Stories
 
 The following **required** functionality is completed:
@@ -42,7 +44,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Codepath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
